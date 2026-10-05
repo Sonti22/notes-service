@@ -1,0 +1,14 @@
+.git
+frontend/node_modules
+frontend/dist
+backend/vendor
+backend/node_modules
+backend/.env
+backend/database/*.sqlite*
+backend/storage/logs/*
+backend/bootstrap/cache/*.php
+backend/storage/framework/views/*.php
+backend/storage/framework/sessions/*
+backend/storage/framework/cache/data/*
+backend/.phpunit.result.cache
+artifacts
